@@ -21,5 +21,5 @@ Click the links below to download the checkpoint for the corresponding model nam
 
 # To-do
 
-- [x] Go over research paper and create a summary
-- [ ] Go over code and write interpretations
+- [x] Go over research paper and create a summary ([SAM Research Paper Summary](https://github.com/PragyanSubedi/Segment-Anything-Model-Breakdown/blob/main/SAM%20Research%20Paper%20Summary.ipynb))
+- [ ] Interpret the segment_anything library
