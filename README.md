@@ -1,4 +1,6 @@
-# A Repository breaking down Segment Anything model by Meta AI
+# A Study On The Segment Anything Model By Meta AI
+
+Original paper: https://arxiv.org/pdf/2304.02643v1.pdf
 
 Install necessary libraries by running the following two lines:
 
