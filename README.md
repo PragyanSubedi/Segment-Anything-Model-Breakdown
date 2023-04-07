@@ -1,7 +1,9 @@
 # A Study On The Segment Anything Model By Meta AI
 
 Original paper: https://arxiv.org/pdf/2304.02643v1.pdf
+
 Original GitHub: https://github.com/facebookresearch/segment-anything
+
 Website: https://segment-anything.com/
 
 Install necessary libraries by running the following two lines:
