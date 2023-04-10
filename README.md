@@ -24,4 +24,4 @@ Click the links below to download the checkpoint for the corresponding model nam
 # To-do
 
 - [x] Go over research paper and create a summary ([SAM Research Paper Summary](https://github.com/PragyanSubedi/Segment-Anything-Model-Breakdown/blob/main/SAM%20Research%20Paper%20Summary.ipynb))
-- [ ] Interpret the segment_anything library
+- [x] Code interpretation of Forward Propagation in SAM ([Forward Propagation in SAM])(https://github.com/PragyanSubedi/Segment-Anything-Model-Breakdown/blob/main/Forward%20Propagation%20in%20SAM.ipynb))
